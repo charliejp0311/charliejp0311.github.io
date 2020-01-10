@@ -1,11 +1,11 @@
 # Site settings
 author: Charles Pelton
-title: 
+title: My Journey at Flatiron
 header-img: img/home-bg.png
 email: charliejp0311@gmail.com
 copyright_name: Charles Pelton
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I chose software engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  charliejp0311
